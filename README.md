@@ -29,12 +29,24 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+LINE REGULATION:
 
-V-I & REGULATION CHARACTERISTICS:
+![WhatsApp Image 2025-12-26 at 23 18 57](https://github.com/user-attachments/assets/320a4c33-5389-4d8f-9347-ba121a97b8c6)
+
+
+LOAD REGULATION:
+![WhatsApp Image 2025-12-26 at 23 18 58](https://github.com/user-attachments/assets/32ad4088-48c6-436c-b8fd-200812c7c1c6)
+
+
+CIRCUIT DIAGRAM:
+LINE REGULATION:
+<img width="1450" height="533" alt="image" src="https://github.com/user-attachments/assets/f0b70812-fd24-4723-8367-60f3d6cb8ce5" />
+
+
+LOAD REGULATION:
+<img width="1465" height="503" alt="image" src="https://github.com/user-attachments/assets/aa8f38dd-7b9e-411f-9a13-5cea9202d224" />
 
 PRECAUTIONS:
-
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
